@@ -4,7 +4,7 @@
 
 ## 1. Scope
 
-This fix applies to a ThinkPad X1 Tablet Gen 3 running Windows 8.1 where the physical side buttons do not work correctly:
+This fix applies to a ThinkPad X1 Tablet Gen 3 (BIOS version 1.51) running Windows 8.1 where the physical side buttons do not work correctly:
 
 * Power
 * Volume Up
